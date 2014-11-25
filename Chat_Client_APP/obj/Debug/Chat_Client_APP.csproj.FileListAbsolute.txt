@@ -1,0 +1,8 @@
+D:\training projects\C#\Client_server_app\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe.config
+D:\training projects\C#\Client_server_app\Chat_Client_APP\bin\Debug\Chat_Client_APP.exe
+D:\training projects\C#\Client_server_app\Chat_Client_APP\bin\Debug\Chat_Client_APP.pdb
+D:\training projects\C#\Client_server_app\Chat_Client_APP\obj\Debug\Chat_Client_APP.Form1.resources
+D:\training projects\C#\Client_server_app\Chat_Client_APP\obj\Debug\Chat_Client_APP.Properties.Resources.resources
+D:\training projects\C#\Client_server_app\Chat_Client_APP\obj\Debug\Chat_Client_APP.csproj.GenerateResource.Cache
+D:\training projects\C#\Client_server_app\Chat_Client_APP\obj\Debug\Chat_Client_APP.exe
+D:\training projects\C#\Client_server_app\Chat_Client_APP\obj\Debug\Chat_Client_APP.pdb
